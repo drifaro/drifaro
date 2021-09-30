@@ -12,7 +12,7 @@
  <div style="display: inline_block"><br>
  <img align="center" alt="Dri-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Dri-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
- <img align="right" alt="gif-Dri" src="https://media.discordapp.net/attachments/890564066446282812/893217184313139220/Webp.net-gifmaker.gif">
+ <img align="right" alt="gif-Dri" src="https://cdn.discordapp.com/attachments/890564066446282812/893223215013453874/Webp.net-gifmaker_1.gif">
  </div>
   
  ##
