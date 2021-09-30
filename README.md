@@ -24,6 +24,5 @@
   <a href = "mailto:farodrislaine@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <src="https://cdn.discordapp.com/attachments/890564066446282812/893200534729789510/output_2TfwJK.gif">
-    </div>
   ![Snake animation](https://github.com/drifaro/drifaro/blob/output/github-contribution-grid-snake.svg)
-  
+    </div>
