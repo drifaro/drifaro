@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/drifaro">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=drifaro&show_icons=true&theme=outrun&include_all_commits=true&count_private=true&icon_color=white"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drifaro&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=drifaro&show_icons=true&theme=outrun&include_all_commits=true&count_private=true&icon_color=00FFFF&title_color=7CFC00&bg_color=9370DB&text_color=4B0082&border_color=7FFF00"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drifaro&layout=compact&langs_count=7&theme=outrun&icon_color=00FFFF&title_color=7CFC00&bg_color=9370DB&text_color=4B0082&border_color=7FFF00""/>
 </div>
   
  <h4 align="center">
