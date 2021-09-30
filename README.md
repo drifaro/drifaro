@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/drifaro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drifaro&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drifaro&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=drifaro&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drifaro&layout=compact&langs_count=7&theme=outrun"/>
 </div>
  <div style="display: inline_block"><br>
  <img align="center" alt="Dri-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
