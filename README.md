@@ -15,7 +15,7 @@
  <img align="center" alt="Dri-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
  <img align="center" alt"Dri-angular" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
  <img align="center" alt"Dri-docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
- <img align="center" alt"Dri-spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+ <img align="center" alt"Dri-spring" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
  <img align="center" alt"Dri-MySQL" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
  <img align="right" alt="gif-Dri" src="https://cdn.discordapp.com/attachments/890564066446282812/893223215013453874/Webp.net-gifmaker_1.gif">
  </div>
