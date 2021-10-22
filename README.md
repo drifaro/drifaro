@@ -2,6 +2,7 @@
 
 - 👩‍💻 Desenvolvedora em formação pela Generation Brasil
 - ☕ Estudando Java
+- 👷‍♀️ Bacharel em Engenharia Civil
 - 😄 Pronouns: Ela/Dela
 
 <h4 align="center">
