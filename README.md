@@ -22,6 +22,9 @@
  <img align="right" alt="gif-Dri" src="https://cdn.discordapp.com/attachments/854543811715006484/902650262534103090/Webp.net-gifmaker_1.gif">
  </div>
   
+  <h4 align="center">
+  <img alingn="center" height="30" src=https://visitor-badge.laobi.icu/badge?page_id=drifaro>
+  
 ##
  
  <h4 align="center">
