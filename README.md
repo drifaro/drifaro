@@ -16,14 +16,11 @@
  <img align="center" alt="Dri-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
  <img align="center" alt="Dri-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
  <img align="center" alt"Dri-angular" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
- <img align="center" alt"Dri-docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
  <img align="center" alt"Dri-spring" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
  <img align="center" alt"Dri-MySQL" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
  <img align="right" alt="gif-Dri" src="https://cdn.discordapp.com/attachments/854543811715006484/902650262534103090/Webp.net-gifmaker_1.gif">
  </div>
   
-  <h4 align="center">
-  <img alingn="center" height="30" src=https://visitor-badge.laobi.icu/badge?page_id=drifaro>
   
 ##
  
