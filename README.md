@@ -1,6 +1,6 @@
 ## Olá, eu sou a Dri ✨
 
-<img align="right" height="150" src="https://media.discordapp.net/attachments/916382468293165167/917244749122003004/AW3925002_17.gif"/>
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/850230792348762133/917252643833921576/AW3925002_17.gif"/>
 
 
 - 👩‍💻 Desenvolvedora em formação pela Generation Brasil
