@@ -10,7 +10,7 @@
 
 
 <h4 align="center">
-<img align="right" alt="gif-Dri" src="https://media.discordapp.net/attachments/850230792348762133/912673661037715486/download.gif">
+<img align="right" alt="gif-Dri" src="https://cdn.discordapp.com/attachments/850230792348762133/912673661037715486/download.gif">
 
 
 
