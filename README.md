@@ -10,7 +10,7 @@
 - 👷‍♀️ Bacharel em Engenharia Civil
 - 😄 Pronomes: Ela/Dela
 
-
+##
 
 <div align="center">
 <img align="center" height="350" alt="gif-Dri" src="https://cdn.discordapp.com/attachments/850230792348762133/912673661037715486/download.gif"/> </div>
