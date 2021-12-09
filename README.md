@@ -1,4 +1,5 @@
 ## Olá, eu sou a Dri ✨
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/850230792348762133/917252643833921576/AW3925002_17.gif"/>
 
 <h3 align= "left"> Sejam bem vindos ao meu GitHub e fiquem a vontade para olhar os meus repositórios! </h3>
 
@@ -12,7 +13,7 @@
 
 
 <div align="center">
-<img align="center" height="300" alt="gif-Dri" src="https://cdn.discordapp.com/attachments/850230792348762133/912673661037715486/download.gif"/> </div>
+<img align="center" height="350" alt="gif-Dri" src="https://cdn.discordapp.com/attachments/850230792348762133/912673661037715486/download.gif"/> </div>
 
 
   
