@@ -1,7 +1,7 @@
 ## Olá, eu sou a Dri ✨
 
 <h3 align= "left"> Sejam bem vindos ao meu GitHub e fiquem a vontade para olhar os meus repositórios! </h3>
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/850230792348762133/917252643833921576/AW3925002_17.gif"/>
+
 
 
 - 👩‍💻 Desenvolvedora em formação pela Generation Brasil
@@ -10,7 +10,6 @@
 - 😄 Pronomes: Ela/Dela
 
 
-##
 
 <div align="center">
 <img align="center" height="300" alt="gif-Dri" src="https://cdn.discordapp.com/attachments/850230792348762133/912673661037715486/download.gif"/> </div>
