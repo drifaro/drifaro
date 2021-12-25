@@ -5,8 +5,8 @@
 
 
 
-- 👩‍💻 Desenvolvedora em formação pela Generation Brasil
-- ☕ Estudando Java
+- 👩‍💻 Desenvolvedora Web Full-Stack Júnior
+- ☕ Java
 - 👷‍♀️ Bacharel em Engenharia Civil
 - 😄 Pronomes: Ela/Dela
 
