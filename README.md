@@ -5,8 +5,7 @@
 
 
 
-- 👩‍💻 Desenvolvedora Web Full-Stack Júnior
-- ☕ Java
+- 👩‍💻 Junior Front-end Developer at Bees|AB-inbev
 - 👷‍♀️ Bacharel em Engenharia Civil
 - 😄 Pronomes: Ela/Dela
 
