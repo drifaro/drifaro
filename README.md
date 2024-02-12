@@ -6,7 +6,7 @@
 </h3>
 
 
-- 👩‍💻 Junior Front-end Developer at Bees|AB-inbev
+- 👩‍💻 React Junior Developer at Bees Brasil|AB-inbev
 - 👷‍♀️ Bacharel em Engenharia Civil
 - 😄 Pronomes: Ela/Dela
 
