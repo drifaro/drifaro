@@ -1,5 +1,4 @@
 ## Olá, eu sou a Dri ✨
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHMxbnprN3ByNHp0dWoxeW5iaDA2bXZwamt4YzdsMjF4bnB2N3lsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7SKqn3G97xpmfSOvG/giphy.gif"/>
 
 
 <h3 align= "left"> 
@@ -12,37 +11,26 @@
 - 😄 Pronomes: Ela/Dela
 
 ##
-
-<div align="center">
-  <img align="center" height="350" alt="gif-Dri" src="https://i.imgur.com/ZsXbv64.gif"/> 
-</div>
-
-  
-<h4 align="center">  
-  <a href="https://github.com/drifaro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drifaro&theme=catppuccin_latte&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drifaro&layout=compact&langs_count=7&theme=catppuccin_latte"/> 
-</h4>
  
+
  <div align="center">
- <div align="center">    
-   <img align="center" alt="React" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>      
-   <img align="center" alt="JavaScript" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-   <img align="center" alt="TypeScript" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />          
-   <img align="center" alt="CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>   
-   <img align="center" alt="HTML5" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>     
-   <img align="center" alt="Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>              
+   <img align="center" alt="React" src="https://img.shields.io/badge/React-23272F?style=for-the-badge&logo=react&logoColor=61DAFB"/>      
+   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />          
+   <img align="center" alt="CSS" src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>   
+   <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>     
+   <img align="center" alt="Git" src="https://img.shields.io/badge/git-23272F?style=for-the-badge&logo=git"/>
  </div>
-   
+   <br>
  <div align="center">
-    <img align="center" alt="Yarn" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original-wordmark.svg" />
-    <img align="center" alt="Yarn" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />     
-    <img align="center" alt="Jest" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
-    <img align="center" alt="Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-    <img align="center" alt="Axios" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" />
-    <img align="center" alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+    <img align="center" alt="Yarn" src="https://img.shields.io/badge/yarn-23272F?style=for-the-badge&logo=yarn" />
+    <img align="center" alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />     
+    <img align="center" alt="Jest" src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+    <img align="center" alt="Sass" src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+    <img align="center" alt="Styled Components" src="https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" />
+   <img align="center" alt="Axios" src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios" />
  </div>
-</div>
+
    
  ##
 
