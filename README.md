@@ -1,14 +1,11 @@
-## Olá, eu sou a Dri ✨
+## Hello, I am Dri ✨
 
 
 <h3 align= "left"> 
-  Sejam bem vindos ao meu GitHub e fiquem a vontade para olhar os meus repositórios! 
+  Welcome to my GitHub and feel free to check out my repositories!
 </h3>
 
-
 - 👩‍💻 React Developer at Bees Brasil|AB-inbev
-- 👷‍♀️ Bacharel em Engenharia Civil
-- 😄 Pronomes: Ela/Dela
 
 ##
  
