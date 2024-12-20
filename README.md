@@ -5,7 +5,7 @@
   Welcome to my GitHub and feel free to check out my repositories!
 </h3>
 
-- 👩‍💻 React Developer at Bees Brasil|AB-inbev
+- 👩‍💻 React Developer at Bees Brasil | AB-inbev
 
 ##
  
